@@ -7,7 +7,7 @@ export const About = () => {
        "CSS",
         "JavaScript",
         "React js",
-        "Next.js",
+        "Firebase",
         "Tailwind CSS",
         "Bootstrap",
     

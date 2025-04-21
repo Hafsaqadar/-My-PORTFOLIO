@@ -53,7 +53,7 @@ export const Projects = () => {
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">View code  → </a>
                 </div>
                </div>
-               <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_0_8px_rgba(59,130, 246, 0.2)] transition">
+               {/* <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_0_8px_rgba(59,130, 246, 0.2)] transition">
                 <h2 className="text-xl font-bold mb-2 ">Task Manager </h2>
                 <p className="text-gray-400 mb-4">A task manager web application with signup and profile</p>
                 <div className="flex flex-wrap gap-2 mb-4">
@@ -94,7 +94,7 @@ export const Projects = () => {
                         <a href=""
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">View code  → </a>
                 </div>
-               </div>
+               </div> */}
                 </div>
             </div>
             </RevealOnScroll>
