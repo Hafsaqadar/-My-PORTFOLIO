@@ -10,8 +10,9 @@ export const Projects = () => {
                 Featured projects</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_0_8px_rgba(59,130, 246, 0.2)] transition">
-                <h2 className="text-xl font-bold mb-2 ">Task Manager </h2>
-                <p className="text-gray-400 mb-4">A task manager web application with signup and profile</p>
+                <h2 className="text-xl font-bold mb-2 "> Recipe Finder App</h2>
+                <p className="text-gray-400 mb-4">
+                A responsive web application that allows users to search for recipes by typing in ingredients or dish names. It fetches data from an external API and displays recipe details, including images and ingredients.</p>
                 <div className="flex flex-wrap gap-2 mb-4">
                     {["react", 'tailwind','firebase'].map((tech,key)=>(
                       <span 
@@ -23,10 +24,10 @@ export const Projects = () => {
                     ))}
                 </div>
                 <div className="flex justify-between items-center  mx-6 mt-4">
-                    <a href=""
+                    <a href="https://recipe-app-steel-delta.vercel.app/"
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                         View project  → </a>
-                        <a href=""
+                        <a href="https://github.com/Hafsaqadar/RECIPE-APP"  
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">View code  → </a>
                 </div>
                </div>
