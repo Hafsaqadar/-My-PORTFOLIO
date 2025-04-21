@@ -25,7 +25,7 @@ export const About = () => {
 
             <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
                <h3 className="text-2xl font-bold mb-4">Frontend Skills</h3>
-               <div className="flex flex-wrap gap-2  sm:w-90">
+               <div className="flex flex-wrap gap-2  w-90">
                 {frontendSkills.map((tech,key) =>(
                    <span 
                    key={key}
