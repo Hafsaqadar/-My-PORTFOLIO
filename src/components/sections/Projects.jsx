@@ -23,7 +23,7 @@ export const Projects = () => {
                       </span> 
                     ))}
                 </div>
-                <div className="flex justify-between items-center  mx-6 mt-4">
+                <div className="flex justify-between items-center  lg:mx-6 mt-4">
                     <a href="https://recipe-app-steel-delta.vercel.app/"
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                         View project  → </a>
@@ -45,7 +45,7 @@ export const Projects = () => {
                       </span> 
                     ))}
                 </div>
-                <div className="flex justify-between items-center  mx-6 mt-4">
+                <div className="flex justify-between items-center  lg:mx-6 mt-4">
                     <a href="https://artist-finder-website.vercel.app/"
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                         View project  → </a>
@@ -66,7 +66,7 @@ export const Projects = () => {
                       </span> 
                     ))}
                 </div>
-                <div className="flex justify-between items-center  mx-6 mt-4">
+                <div className="flex justify-between items-center  lg:mx-6 mt-4">
                     <a href=""
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                         View project  → </a>
@@ -87,7 +87,7 @@ export const Projects = () => {
                       </span> 
                     ))}
                 </div>
-                <div className="flex justify-between items-center  mx-6 mt-4">
+                <div className="flex justify-between items-center  lg:mx-6 mt-4">
                     <a href=""
                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                         View project  → </a>
